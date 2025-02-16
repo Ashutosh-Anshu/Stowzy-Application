@@ -1,0 +1,12 @@
+﻿/Backend/.vs
+/Backend/owner-portal/bin/Debug/net8.0
+/Backend/owner-portal/obj
+/Backend/owner-portal/appsettings.Development.json
+/Backend/owner-portal/appsettings.json
+/Backend/owner-portal.BLL/bin/Debug/net8.0
+/Backend/owner-portal.BLL/obj
+/Backend/owner-portal.DAL/bin/Debug/net8.0
+/Backend/owner-portal.DAL/obj
+/Backend/owner-portal.Domain/bin/Debug/net8.0
+/Backend/owner-portal.Domain/obj
+/Frontend/.vscode
